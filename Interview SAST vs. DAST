@@ -1,0 +1,47 @@
+ Interview Questions:
+
+Understanding Web Testing: SAST vs. DAST
+
+Web testing in cybersecurity involves identifying vulnerabilities in web applications. The two primary methods are:
+
+1.      SAST (Static Application Security Testing) – A white-box testing method that analyzes source code, bytecode, or binaries before execution to find security flaws.
+
+2.      DAST (Dynamic Application Security Testing) – A black-box testing method that tests a running application in real-time to detect vulnerabilities during execution.
+
+Recruiting Questions for SAST and DAST Testers
+
+General Web Security Testing Questions:
+
+1.      Can you explain the differences between SAST and DAST? When would you use each?
+
+2.      What are the most common web security vulnerabilities you have encountered?
+
+3.      Which security frameworks or standards do you follow (e.g., OWASP Top 10, NIST, ISO 27001)?
+
+4.      How do you stay updated on the latest cybersecurity threats and vulnerabilities?
+
+5.      Have you worked with DevSecOps? How do you integrate security testing into CI/CD pipelines?
+
+SAST-Specific Questions:
+
+6.      Which SAST tools have you worked with (e.g., SonarQube, Checkmarx, Fortify, Veracode)?
+
+7.      How do you handle false positives in SAST reports?
+
+8.      What programming languages are you most comfortable analyzing for security vulnerabilities?
+
+9.      Can you walk me through a time you identified a major security flaw using SAST?
+
+10.  How would you improve the accuracy and efficiency of static analysis in a large development team?
+
+DAST-Specific Questions:
+
+11.  Which DAST tools have you used (e.g., Burp Suite, OWASP ZAP, Acunetix, AppScan)?
+
+12.  How do you test for SQL injection, XSS, and other OWASP vulnerabilities dynamically?
+
+13.  Can you describe your approach to penetration testing within a DAST framework?
+
+14.  How do you ensure DAST testing does not disrupt production environments?
+
+15.  Have you performed authenticated scans using DAST? What challenges did you face?
